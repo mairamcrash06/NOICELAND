@@ -1,0 +1,18 @@
+@media (max-width: 1200px) {
+    .hero__desc {
+        max-width: 970px;
+    }
+
+}
+
+@media (max-width: 768px) {
+    .container {
+        max-width: none;
+    }
+}
+
+@media (max-width: 390px) {
+    .container {
+        max-width: none;
+    }
+}
